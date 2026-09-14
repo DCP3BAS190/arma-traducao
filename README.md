@@ -16,7 +16,7 @@ O objetivo é *“quebrar um galho”* na questão da escassez de traduções pa
 ## Desinstalação
 - **Via Steam**:  
   1. Clique com o botão direito no jogo na biblioteca.  
-  2. Vá em *Propriedades* → *Arquivos locais*.  
+  2. Vá em *Propriedades* → *Arquivos Instalados*.  
   3. Selecione *Verificar integridade dos arquivos*.  
   4. O Steam irá restaurar os arquivos originais, removendo a tradução.  
 
