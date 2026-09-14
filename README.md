@@ -5,11 +5,13 @@ O objetivo é *“quebrar um galho”* na questão da escassez de traduções pa
 
 ## Instalação
 **OBS: É altamente recomendado fazer um backup!**
-1. Baixe o arquivo `.zip`: **Tradução_Arma_Cold_War_Assault_Remastered_PT-BR**  
-2. Extraia o `.zip`: **Tradução_Arma_Cold_War_Assault_Remastered_PT-BR**  
-3. Copie/Recorte as pastas **BIN** e **Remastered** e cole no caminho:  
+1. Baixe o arquivo `.zip` pelo link:  
+   [Download via Google Drive](https://drive.google.com/file/d/1YhaQfMN9SRRlwxcj30ow012hSKJYxy3k/view?usp=sharing)
+2. Baixe o arquivo `.zip`: **Tradução_Arma_Cold_War_Assault_Remastered_PT-BR**  
+3. Extraia o `.zip`: **Tradução_Arma_Cold_War_Assault_Remastered_PT-BR**  
+4. Copie/Recorte as pastas **BIN** e **Remastered** e cole no caminho:  
    **C:\Program Files (x86)\Steam\steamapps\common\ARMA Cold War Assault**  
-4. Selecione a opção "Substituir o arquivo no destino".
+5. Selecione a opção "Substituir o arquivo no destino".
 
 ## Desinstalação
 - **Via Steam**:  
